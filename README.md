@@ -1,3 +1,4 @@
+https://towardsdatascience.com/convolutional-neural-networks-model-from-scratch-for-object-detection-820893610919
 # CNN_from_scratch
 CNN model from scratch build with fruits dataset on kaggle  https://www.kaggle.com/moltean/fruits
 
